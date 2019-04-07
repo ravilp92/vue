@@ -1,0 +1,12 @@
+.logo {
+    height: 6rem;
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+
+.menuitem {
+    font-family: fantasy;
+    font-size: 1rem;
+    margin-left: 8rem;
+    /* color: rgba(255, 255, 255, 0.9); */
+}
